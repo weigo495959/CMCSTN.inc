@@ -1,3 +1,3 @@
 # Culcspin-MCSTN.inc
-Culcspin-MCSTN projects
+Culcspin-MCSTN software source projects
 comming soon
